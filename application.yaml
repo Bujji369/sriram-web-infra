@@ -9,7 +9,7 @@ spec:
     server: "https://kubernetes.default.svc"
   project: default
   source: 
-    path: guestbook
+    path: ./
     repoURL: "https://github.com/Bujji369/sriram-web-infra.git"
     targetRevision: master
   syncPolicy:
