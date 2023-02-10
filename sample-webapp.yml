@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-k8s
-          image: Bujji369/sriram-web:d41bb98458f4544023c84f3975e07890718bd866
+          image: nginx
          
           ports:
             - containerPort: 8080 
